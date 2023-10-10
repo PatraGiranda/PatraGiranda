@@ -19,8 +19,9 @@
 ## Work Experience:
 #### 1. [PT. Kemala Inti Solusi](https://kemalaintisolusi.co.id/) | Engineering | Jakarta Selatan `2021-2022`
    - Integrate Accuracy Plan, Master Plan, and Engineering Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Manage to update SIMRS of distribution lines using Website
+   - Maintenance hardware & software computer KORLANTAS POLRI
+   - Responsible for improving and realizing project delivery on schedule
+   - Repair and maintain computer networks from hacker attacks
 #### 2. [Universitas Panca Sakti](http://www.unpacti.ac.id/) | Administration | Makassar `2018-2019`
    - Administration
    - Manage to recap fault in distribution network
