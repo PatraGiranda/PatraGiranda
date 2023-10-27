@@ -1,6 +1,6 @@
 # Hi there, I'm [PatraGiranda](https://wa.me/6281245555194) 👋
 ## About me:
-- 🔎 I’m looking for work as an Admin, Barista and IT Support
+- 🔎 I’m looking for work as an Admin, IT Support, & Software Engineer
 - 💻 I’m currently learning C++, Java, Python & Javascript
 - 🧑‍💻 I’m looking to collaborate as IOT, C++, Microsoft Excel & Word
 - 🤖 I’m looking for suggest for Rust Project Robotics
